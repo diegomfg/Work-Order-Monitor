@@ -1,2 +1,6 @@
 CLAUDE.md
 Sample Data - Week data of work orders.pdf
+node_modules
+dist
+.DS_Store
+.claude/settings.local.json
